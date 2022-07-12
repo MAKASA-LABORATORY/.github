@@ -3,7 +3,6 @@
 ![image](https://user-images.githubusercontent.com/10474143/164570380-528f5ff9-416c-4981-8b1e-dd496d996a49.png)
 
 # Top Performing Students:
-
 # These are the students who excel in this Microprocessor Systems (Microprocessor/Microcontroller):
 
 # **BSME 3, CPE 01, Term: 1, S.Y. 21-22**
@@ -33,3 +32,12 @@
 
 ## CADELIÑA, MARY RANIVE, L.
 ## CARIAS, ALYZZA MAE, G.
+
+
+# Best Papers Presented
+# These are the Best Papers Presented in Microprocessor Systems (Microprocessor/Microcontroller):
+
+# BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 
+## AUTOMATIC SCARECROW USING MICROWAVE SENSOR FOR DETECTION AND PROTECTION OF RICE CROPS IN CADAPDAPAN RICE TERRACES CANDIJAY BOHOL
+
+

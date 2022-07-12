@@ -4,7 +4,7 @@
 
 # Top Performing Students:
 
-## These are the students who excel in this Microprocessor Systems (Microprocessor/Microcontroller):
+# These are the students who excel in this Microprocessor Systems (Microprocessor/Microcontroller):
 
 # BSME 3, CPE 01, Term: 1, S.Y. 21-22 
 

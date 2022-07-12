@@ -6,7 +6,7 @@
 
 # These are the students who excel in this Microprocessor Systems (Microprocessor/Microcontroller):
 
-** BSME 3, CPE 01, Term: 1, S.Y. 21-22 **
+# **BSME 3, CPE 01, Term: 1, S.Y. 21-22**
 
 ## BALBIDO, ANGEL BERT, A.
 ## CASTILLON, LENARD, B.

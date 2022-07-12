@@ -45,6 +45,6 @@
 
 # Prepared By:
 ## Engr. Max Angelo Dapitilla Perin, BSCpE, MSCS
-- Computer Engineer/Computer Scientist/Instructor
-- ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
+### Computer Engineer/Computer Scientist/Instructor
+### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 

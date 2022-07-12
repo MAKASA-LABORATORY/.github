@@ -5,9 +5,7 @@
 #
 # Top Performing Students:
 # These are the students who excel in this Microprocessor Systems (Microprocessor/Microcontroller):
-
 # **BSME 3, CPE 01, Term: 1, S.Y. 21-22**
-
 ## BALBIDO, ANGEL BERT, A.
 ## CASTILLON, LENARD, B.
 ## DOLDOLEA, JHON ROZEND, C.
@@ -19,21 +17,14 @@
 ## PASAMBA, JOSHUA, N.
 ## SALOMON, LLOYD CHRISTIAN, C.
 ## SOCORIN, LEONEL DAVE, P.
-
-
 # BSEE 3A, CPE 03, Term: 2, S.Y. 21-22 
-
 ## ANUNCIADO, DARYL, T.
 ## LOPOY, TIARA VINICEYENA, B.
 ## RULOMA, JAY, H.
 ## TAGUDIN, ANTHONY, S.
-
-
 # BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 
-
 ## CADELIÑA, MARY RANIVE, L.
 ## CARIAS, ALYZZA MAE, G.
-#
 #
 #
 # Best Papers Presented
@@ -41,10 +32,9 @@
 
 # BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 
 ## AUTOMATIC SCARECROW USING MICROWAVE SENSOR FOR DETECTION AND PROTECTION OF RICE CROPS IN CADAPDAPAN RICE TERRACES CANDIJAY BOHOL https://github.com/MAKASA-LABORATORY/81-ASUMSFDAPORCICRTCD https://www.researchgate.net/publication/361497645_AUTOMATIC_SCARECROW_USING_MICROWAVE_SENSOR_FOR_DETECTION_AND_PROTECTION_OF_RICE_CROPS_IN_CADAPDAPAN_RICE_TERRACES_CANDIJAY_BOHOL_BISU-ACMIA-I-RRL-PM-R-A?_sg%5B0%5D=5NHboNDl5DlOZ09NTMvDGDVyA6yqIiTh7LXThrR20LEMT0QbhgN7XFAF2-AnDGSgXfQOhX721A
-
-
+#
+#
 # Prepared By:
 ## Engr. Max Angelo Dapitilla Perin, BSCpE, MSCS
 ### Computer Engineer/Computer Scientist/Instructor
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
-

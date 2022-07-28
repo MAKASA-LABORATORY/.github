@@ -5,9 +5,15 @@
 #
 # Top Performing Students:
 # These are the students who excel in Object Oriented Programming:
-# **OFFSEM-BSCPE 2, CPE 121, Term: 1, S.Y. 21-22**
+# **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20**
 ## CAMPECIÑO, GECILLE MARIE, T.
 # These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
+# **BSEE 3, CPE 424, Term: 2, S.Y. 19-20**
+## BAYOCOT, CIELO DEL, B.	
+## COSTAN, JOHN MELVIN, S.	
+## DOBLAS, JOHN CHRISTIAN, D.	
+## ROMOC, RICO, E.	
+## SALE, SIEGMORN, L.	
 # **BSME 3, CPE 01, Term: 1, S.Y. 21-22**
 ## BALBIDO, ANGEL BERT, A.
 ## CASTILLON, LENARD, B.

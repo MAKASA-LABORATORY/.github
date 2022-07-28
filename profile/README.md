@@ -55,8 +55,8 @@
 # BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 
 ## CADELIÑA, MARY RANIVE, L.
 ## CARIAS, ALYZZA MAE, G.
-#
 ### The list is based on the 1.0 grade on the final term.
+#
 #
 # Best Papers Presented
 # These are the Best Papers Presented in Microprocessor Systems (Microprocessor/Microcontroller):

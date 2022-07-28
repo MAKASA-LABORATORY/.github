@@ -4,6 +4,27 @@
 #
 #
 # Top Performing Students:
+# These are the students who excel in Software Engineering:
+# **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20**
+## ANOBA, BRADLEY, B.
+## APALISOK, MARIJUN, G.
+## BELDEROL, RENZO, A.
+## CINCONIEGUE, KYARRA, B.
+## CURAN, CYRUS REX
+## GANADOS, ANGELOU KATES, C.
+## GARCIA, ZACCRIO, M.
+## GARIN, JAMES JR., A.
+## GARSUTA, JOYCE QUEENIE, D.
+## GUILLANO, JOYCE MAE, Y.
+## LOOD, MA. LYKA, C.
+## MAGLENTE, ALFRED, B.
+## OCLARIT, MARRISH, V.
+## ORTIZ, CELMAR JOHN, S.
+## RABINO, CARLEEN, C.
+## RACINES, JEORIE, R.
+## RIM, JEAN PRETZY, R.
+## SOLIVA, DEREK JOHN, B.
+## TORREFIEL, JAN MARIUS, A.
 # These are the students who excel in Object Oriented Programming:
 # **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20**
 ## CAMPECIÑO, GECILLE MARIE, T.

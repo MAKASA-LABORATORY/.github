@@ -65,7 +65,7 @@
 ##
 #
 # Prepared By:
-## Max Angelo Dapitilla Perin, BSCpE, MSCS
+## Max Angelo Dapitilla Perin, MSCS, BSCpE
 ### Computing Enthusiast
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

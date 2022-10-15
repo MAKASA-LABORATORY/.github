@@ -5,7 +5,7 @@
 #
 # Top Performing Students:
 # These are the students who excel in Software Engineering:
-# **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20**
+# **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)**
 ## ANOBA, BRADLEY, B.
 ## APALISOK, MARIJUN, G.
 ## BELDEROL, RENZO, A.
@@ -26,16 +26,16 @@
 ## SOLIVA, DEREK JOHN, B.
 ## TORREFIEL, JAN MARIUS, A.
 # These are the students who excel in Object Oriented Programming:
-# **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20**
+# **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20 (Face-to-face)**
 ## CAMPECIÑO, GECILLE MARIE, T.
 # These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
-# **BSEE 3, CPE 424, Term: 2, S.Y. 19-20**
+# **BSEE 3, CPE 424, Term: 2, S.Y. 19-20 (Face-to-face/Online)**
 ## BAYOCOT, CIELO DEL, B.	
 ## COSTAN, JOHN MELVIN, S.	
 ## DOBLAS, JOHN CHRISTIAN, D.	
 ## ROMOC, RICO, E.	
 ## SALE, SIEGMORN, L.	
-# **BSME 3, CPE 01, Term: 1, S.Y. 21-22**
+# **BSME 3, CPE 01, Term: 1, S.Y. 21-22 (Online)**
 ## BALBIDO, ANGEL BERT, A.
 ## CASTILLON, LENARD, B.
 ## DOLDOLEA, JHON ROZEND, C.
@@ -47,12 +47,12 @@
 ## PASAMBA, JOSHUA, N.
 ## SALOMON, LLOYD CHRISTIAN, C.
 ## SOCORIN, LEONEL DAVE, P.
-# BSEE 3A, CPE 03, Term: 2, S.Y. 21-22 
+# BSEE 3A, CPE 03, Term: 2, S.Y. 21-22 (Online)
 ## ANUNCIADO, DARYL, T.
 ## LOPOY, TIARA VINICEYENA, B.
 ## RULOMA, JAY, H.
 ## TAGUDIN, ANTHONY, S.
-# BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 
+# BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 (Online)
 ## CADELIÑA, MARY RANIVE, L.
 ## CARIAS, ALYZZA MAE, G.
 ### The list is based on the 1.0 grade on the final term.

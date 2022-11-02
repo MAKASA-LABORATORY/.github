@@ -58,11 +58,14 @@
 ### The list is based on the 1.0 grade on the final term.
 #
 #
-# Best Papers Presented
+# Best Papers Presented based on Most Read in ResearchGate.
 # These are the Best Papers Presented in Microprocessor Systems (Microprocessor/Microcontroller):
-
-# Term: 2, S.Y. 21-22 
-##
+#
+# Research Project Presentation for Bachelor of Science in Computer Engineering 3 in CPE 323 – Microprocessor System S.Y. 2020-2021, 2nd Semester
+## ARDUINO-BASED GAS DETECTOR IN RESIDENTIAL HOMES
+#
+# Research Project Presentation for Bachelor of Science in Mechanical Engineering 3 in CPE 01 – Microprocessors 1 S.Y. 2020-2021, 1st Semester
+## USE OF PASSWORD-PROTECTED DOOR LOCK SYSTEM WITH ARDUINO IN THE BOARDING HOUSES OF 0012 ESPUELAS ST., COGON DISTRICT, TAGBILARAN CITY 
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, MSCS, BSCpE

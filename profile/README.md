@@ -59,8 +59,6 @@
 #
 #
 # Best Papers Presented based on Most Read in ResearchGate.
-# These are the Best Papers Presented in Microprocessor Systems (Microprocessor/Microcontroller):
-#
 # ARDUINO-BASED GAS DETECTOR IN RESIDENTIAL HOMES
 ## Research Project Presentation for Bachelor of Science in Computer Engineering 3 in CPE 323 – Microprocessor System S.Y. 2020-2021, 2nd Semester
 #

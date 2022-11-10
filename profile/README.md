@@ -27,14 +27,14 @@
 ## ᜆᜓᜇᜒᜌᜒᜉᜒᜎ᜔᜵ ᜇ᜔ᜌᜈ᜔ ᜋᜇ᜔ᜌᜓᜐ᜔᜵ ᜀ᜶
 # These are the students who excel in Object Oriented Programming:
 # **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20 (Face-to-face)**
-## CAMPECIÑO, GECILLE MARIE, T.
+## ᜃᜋ᜔ᜉᜒᜃᜒᜈ᜔ᜌᜓ᜵ ᜄᜒᜐᜒᜎ᜔ ᜋᜇᜒ᜵ ᜆ᜔᜶
 # These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
 # **BSEE 3, CPE 424, Term: 2, S.Y. 19-20 (Face-to-face/Online)**
-## BAYOCOT, CIELO DEL, B.	
-## COSTAN, JOHN MELVIN, S.	
-## DOBLAS, JOHN CHRISTIAN, D.	
-## ROMOC, RICO, E.	
-## SALE, SIEGMORN, L.	
+## ᜊᜌᜓᜃᜓᜆ᜔᜵ ᜐᜒᜌᜒᜎᜓ ᜇᜒᜎ᜔᜵ ᜊ᜔᜶	
+## ᜃᜓᜐ᜔ᜆᜈ᜔᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜋᜒᜎ᜔ᜊᜒᜈ᜔᜵ ᜐ᜔᜶	
+## ᜇᜓᜊ᜔ᜎᜐ᜔᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜃ᜔ᜑ᜔ᜇᜒᜐ᜔ᜆᜒᜌᜈ᜔᜵ ᜇ᜔᜶	
+## ᜇᜓᜋᜓᜃ᜔᜵ ᜇᜒᜃᜓ᜵ ᜁ᜶	
+## ᜐᜎᜒ᜵ ᜐᜒᜌᜒᜇ᜔ᜌ᜔ᜋᜓᜇ᜔ᜈ᜔᜵ ᜎ᜔᜶	
 # **BSME 3, CPE 01, Term: 1, S.Y. 21-22 (Online)**
 ## BALBIDO, ANGEL BERT, A.
 ## CASTILLON, LENARD, B.

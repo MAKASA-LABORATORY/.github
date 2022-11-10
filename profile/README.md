@@ -27,7 +27,7 @@
 ## ᜆᜓᜇᜒᜌᜒᜉᜒᜎ᜔᜵ ᜇ᜔ᜌᜈ᜔ ᜋᜇ᜔ᜌᜓᜐ᜔᜵ ᜀ᜶
 # These are the students who excel in Object Oriented Programming:
 # **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20 (Face-to-face)**
-## ᜃᜋ᜔ᜉᜒᜃᜒᜈ᜔ᜌᜓ᜵ ᜄᜒᜐᜒᜎ᜔ ᜋᜇᜒ᜵ ᜆ᜔᜶
+## ᜃᜋ᜔ᜉᜒᜐᜒᜈ᜔ᜌᜓ᜵ ᜄᜒᜐᜒᜎ᜔ ᜋᜇᜒ᜵ ᜆ᜔᜶
 # These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
 # **BSEE 3, CPE 424, Term: 2, S.Y. 19-20 (Face-to-face/Online)**
 ## ᜊᜌᜓᜃᜓᜆ᜔᜵ ᜐᜒᜌᜒᜎᜓ ᜇᜒᜎ᜔᜵ ᜊ᜔᜶	
@@ -36,25 +36,25 @@
 ## ᜇᜓᜋᜓᜃ᜔᜵ ᜇᜒᜃᜓ᜵ ᜁ᜶	
 ## ᜐᜎᜒ᜵ ᜐᜒᜌᜒᜇ᜔ᜌ᜔ᜋᜓᜇ᜔ᜈ᜔᜵ ᜎ᜔᜶	
 # **BSME 3, CPE 01, Term: 1, S.Y. 21-22 (Online)**
-## BALBIDO, ANGEL BERT, A.
-## CASTILLON, LENARD, B.
-## DOLDOLEA, JHON ROZEND, C.
-## GAMBAN, EDWIN II, O.
-## REYES, PATRICK HENDRY, B.
-## UGAT, LOREN, B.
-## DANO, ALTHEA IRIS, S.
-## FLORES, KING PATRICK, C.
-## PASAMBA, JOSHUA, N.
-## SALOMON, LLOYD CHRISTIAN, C.
-## SOCORIN, LEONEL DAVE, P.
+## ᜊᜎ᜔ᜊᜒᜇᜓ᜵ ᜁᜌ᜔ᜈ᜔ᜇ᜔ᜌᜒᜎ᜔ ᜊᜒᜇ᜔ᜆ᜔᜵ ᜀ᜶
+## ᜃᜐ᜔ᜆᜒᜎ᜔ᜌᜓᜈ᜔᜵ ᜎᜒᜈᜇ᜔ᜇ᜔᜵ ᜊ᜔᜶
+## ᜇᜓᜎ᜔ᜇᜓᜎᜒᜌ᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜇᜓᜐᜒᜈ᜔ᜇ᜔᜵ ᜃ᜔᜶
+## ᜄᜋ᜔ᜊᜈ᜔᜵ ᜁᜇ᜔ᜏᜒᜈ᜔ 2᜵ ᜂ᜶
+## ᜇᜒᜌᜒᜐ᜔᜵ ᜉᜆ᜔ᜇᜒᜃ᜔ ᜑᜒᜈ᜔ᜇ᜔ᜇᜒ᜵ ᜊ᜔᜶
+## ᜂᜄᜆ᜔᜵ ᜎᜓᜇᜒᜈ᜔᜵ ᜊ᜔᜶
+## ᜇᜈᜓ᜵ ᜀᜎ᜔ᜆᜒᜌ ᜀᜌ᜔ᜇᜒᜐ᜔᜵ ᜐ᜔᜶
+## ᜉ᜔ᜎᜓᜇᜒᜐ᜔᜵ ᜃᜒᜅ᜔ ᜉᜆ᜔ᜇᜒᜃ᜔᜵ ᜃ᜔᜶
+## ᜉᜐᜋ᜔ᜊ᜵ ᜇ᜔ᜌᜓᜐ᜔ᜏ᜵ ᜈ᜔᜶
+## ᜐᜎᜓᜋᜓᜈ᜔᜵ ᜎᜓᜌ᜔ᜇ᜔ ᜃ᜔ᜑ᜔ᜇᜒᜐ᜔ᜆᜒᜌᜈ᜔᜵ ᜃ᜔᜶
+## ᜐᜓᜃᜓᜇᜒᜈ᜔᜵ ᜎᜒᜌᜓᜈᜒᜎ᜔ ᜇᜒᜌ᜔ᜊ᜔᜵ ᜉ᜔᜶
 # BSEE 3A, CPE 03, Term: 2, S.Y. 21-22 (Online)
-## ANUNCIADO, DARYL, T.
-## LOPOY, TIARA VINICEYENA, B.
-## RULOMA, JAY, H.
-## TAGUDIN, ANTHONY, S.
+## ᜀᜈᜓᜈ᜔ᜐᜒᜌᜇᜓ᜵ ᜇᜇᜒᜎ᜔᜵ ᜆ᜔᜶
+## ᜎᜓᜉᜓᜌ᜔᜵ ᜆᜒᜌᜇ ᜊᜒᜈᜒᜐᜒᜌᜒᜈ᜵ ᜊ᜔᜶
+## ᜇᜓᜎᜓᜋ᜵ ᜇ᜔ᜌᜒᜌ᜔᜵ ᜑ᜔᜶
+## ᜆᜄᜓᜇᜒᜈ᜔᜵ ᜀᜈ᜔ᜆᜓᜈᜒ᜵ ᜐ᜔᜶
 # BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 (Online)
-## CADELIÑA, MARY RANIVE, L.
-## CARIAS, ALYZZA MAE, G.
+## ᜃᜇᜒᜎᜒᜈᜒᜌ᜵ ᜋᜒᜌ᜔ᜇᜒ ᜇᜈᜒᜊ᜔᜵ ᜎ᜔᜶
+## ᜃᜇᜒᜌᜐ᜔᜵ ᜀᜎᜒᜐ ᜋᜒᜌ᜔᜵ ᜄ᜔᜶
 ### The list is based on the 1.0 grade on the final term.
 #
 #

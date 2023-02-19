@@ -66,7 +66,7 @@
 ## Research Project Presentation for Bachelor of Science in Mechanical Engineering 3 in CPE 01 – Microprocessors 1 S.Y. 2020-2021, 1st Semester
 #
 # Prepared By:
-## Max Angelo Dapitilla Perin, MSCS, BSCpE
+## Max Angelo Dapitilla Perin, BSCpE, MSCS
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

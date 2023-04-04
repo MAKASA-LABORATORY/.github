@@ -58,13 +58,6 @@
 ### The list is based on the 1.0 grade on the final term.
 #
 #
-# Best Papers Presented based on Most Read in ResearchGate.
-# ARDUINO-BASED GAS DETECTOR IN RESIDENTIAL HOMES
-## Research Project Presentation for Bachelor of Science in Computer Engineering 3 in CPE 323 – Microprocessor System S.Y. 2020-2021, 2nd Semester
-#
-# USE OF PASSWORD-PROTECTED DOOR LOCK SYSTEM WITH ARDUINO IN THE BOARDING HOUSES OF 0012 ESPUELAS ST., COGON DISTRICT, TAGBILARAN CITY 
-## Research Project Presentation for Bachelor of Science in Mechanical Engineering 3 in CPE 01 – Microprocessors 1 S.Y. 2020-2021, 1st Semester
-#
 # Prepared By:
 ## Max Angelo Dapitilla Perin, BSCpE, MSCS
 ## ᜆᜄᜉᜅᜐᜒᜏ 

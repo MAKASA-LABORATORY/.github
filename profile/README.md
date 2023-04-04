@@ -1,6 +1,6 @@
 # ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development https://bit.ly/3czaWnt
 ## This Organization includes developing technical reports/research proposals/projects/thesis/capstone project/dissertation, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for various research topics.
-![image](https://user-images.githubusercontent.com/10474143/164570380-528f5ff9-416c-4981-8b1e-dd496d996a49.png)
+![makasa-logo](https://user-images.githubusercontent.com/10474143/229814299-5b683d85-2d0f-43a0-84bb-c0e0f5f5456b.png)
 #
 #
 # Top Performing Students:

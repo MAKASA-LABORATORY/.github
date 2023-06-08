@@ -55,8 +55,12 @@
 # BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 (Online)
 ## ᜃᜇᜒᜎᜒᜈᜒᜌ᜵ ᜋᜒᜌ᜔ᜇᜒ ᜇᜈᜒᜊ᜔᜵ ᜎ᜔᜶
 ## ᜃᜇᜒᜌᜐ᜔᜵ ᜀᜎᜒᜐ ᜋᜒᜌ᜔᜵ ᜄ᜔᜶
+# These are the students who excel in Intermediate Programming:
 # BSCpE 1B, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ## CUTORA, EDEN PEARL, F.
+# These are the students who excel in  Web Development / Web Enterprise:
+# BSCpE 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
+## MALABUTE, JUSTIN, C.	
 ### The list is based on the 1.0 grade on the final term.
 #
 #

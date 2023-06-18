@@ -1,4 +1,4 @@
-![makasa-logo](https://user-images.githubusercontent.com/10474143/229814299-5b683d85-2d0f-43a0-84bb-c0e0f5f5456b.png)
+![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/172d3265-ca34-4cc7-aa14-8aec4aab1c9b)![makasa-logo](https://user-images.githubusercontent.com/10474143/229814299-5b683d85-2d0f-43a0-84bb-c0e0f5f5456b.png)
 #
 # ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development https://bit.ly/3czaWnt
 ## This Organization includes developing technical reports/research proposals/projects/thesis/capstone project/dissertation, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for various research topics.
@@ -59,6 +59,8 @@
 # BSCS 1B, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ## CUTORA, EDEN PEARL, F.
 ## TASIC, KENT EDILBERT, T.
+# BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
+## SAGLIBA, BRIAN, G.
 # These are the students who excel in  Web Development / Web Enterprise:
 # BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
 ## MALABUTE, JUSTIN, C.	

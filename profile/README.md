@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="500" height="500" />
+  <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="300" height="300" />
 </p>
 
 

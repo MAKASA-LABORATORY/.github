@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="300" height="300" />
+  <a href=" https://bit.ly/3czaWnt" target="_blank">ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development</a>
 </p>
 
-<a href=" https://bit.ly/3czaWnt" target="_blank">ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development</a>
 
 ## This Organization includes developing technical reports/research proposals/projects/thesis/capstone projects/dissertations, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for various research topics.
 
-<h1> Top Performing Students: </h1>
-<h2></h2> These are the students who excel in Software Engineering: </h2>
-<h1><strong>BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)</strong></h1> 
+# Top Performing Students:
+# These are the students who excel in Software Engineering:
+#**BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)**
 ## ᜀᜈᜓᜊ᜵ ᜊ᜔ᜇᜇ᜔ᜎᜒᜌ᜔᜵ ᜊ᜔᜶
 ## ᜀᜉᜎᜒᜐᜓᜃ᜔᜵ ᜋᜇᜒᜇ᜔ᜌᜓᜈ᜔᜵ ᜄ᜔᜶
 ## ᜊᜒᜎ᜔ᜇᜒᜇᜓᜎ᜔᜵ ᜇᜒᜈ᜔ᜐᜓ᜵ ᜀ᜶

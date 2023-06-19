@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="100" height="100" />
-</div>
+<p align="center">
+  <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="500" height="500" />
+</p>
 
 
 #

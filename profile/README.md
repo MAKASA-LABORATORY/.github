@@ -60,13 +60,13 @@
 #### ᜃᜇᜒᜌᜐ᜔᜵ ᜀᜎᜒᜐ ᜋᜒᜌ᜔᜵ ᜄ᜔᜶
 # These are the students who excel in Intermediate Programming:
 # BSCS 1B, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
-## CUTORA, EDEN PEARL, F.
-## TASIC, KENT EDILBERT, T.
+#### CUTORA, EDEN PEARL, F.
+#### TASIC, KENT EDILBERT, T.
 # BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
-## SAGLIBA, BRIAN, G.
+#### SAGLIBA, BRIAN, G.
 # These are the students who excel in  Web Development / Web Enterprise:
 # BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
-## MALABUTE, JUSTIN, C.	
+#### MALABUTE, JUSTIN, C.	
 ### The list is based on the 1.0 grade on the final grade.
 #
 #

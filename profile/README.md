@@ -5,11 +5,11 @@
 
 #
 # ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development https://bit.ly/3czaWnt
-## This Organization includes developing technical reports/research proposals/projects/thesis/capstone project/dissertation, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for various research topics.
+## This Organization includes developing technical reports/research proposals/projects/thesis/capstone projects/dissertations, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for various research topics.
 #
-# Top Performing Students:
-# These are the students who excel in Software Engineering:
-# **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)**
+<h1> Top Performing Students: </h1>
+<h2></h2> These are the students who excel in Software Engineering: </h2>
+<h1><strong>BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)</strong></h1> 
 ## ᜀᜈᜓᜊ᜵ ᜊ᜔ᜇᜇ᜔ᜎᜒᜌ᜔᜵ ᜊ᜔᜶
 ## ᜀᜉᜎᜒᜐᜓᜃ᜔᜵ ᜋᜇᜒᜇ᜔ᜌᜓᜈ᜔᜵ ᜄ᜔᜶
 ## ᜊᜒᜎ᜔ᜇᜒᜇᜓᜎ᜔᜵ ᜇᜒᜈ᜔ᜐᜓ᜵ ᜀ᜶

@@ -72,6 +72,9 @@
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, BSCpE, MSCS, CCpE
+##### Bachelor of Science in Computer Engineering
+##### Master of Science in Computer Science
+##### Certified Computer Engineer
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

@@ -72,9 +72,11 @@
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, BSCpE, MSCS, CCpE
-##### Bachelor of Science in Computer Engineering
-##### Master of Science in Computer Science
-##### Certified Computer Engineer
+##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018
+##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021
+##### Certified Computer Engineer - Philippine's Computer Engineering Board - 2023
+##### Programmer/IT Software Developer - Provincial Government of Bohol - 2019 - 2022
+##### Instructor 1 - Bohol Island State University - 2022 - Present
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

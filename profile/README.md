@@ -4,7 +4,15 @@
 
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development  https://bit.ly/3czaWnt
 #
-## This Organization includes developing technical reports/research proposals/mini research projects/projects/thesis/capstone projects/dissertations, which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for computing + x topics.
+## This Organization includes developing 
+1. technical reports
+2. research proposals
+3. mini research projects
+4. projects
+5. capstone projects
+6. thesis
+8. dissertations
+which analyze/plan/develop/create/implement/review/monitored by the Makasa Laboratory owner, members, and guests for computing + x topics.
 
 ## Top Performing Students:
 ## These are the students who excel in Software Engineering:

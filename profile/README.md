@@ -75,8 +75,9 @@
 ##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018
 ##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021
 ##### Certified Computer Engineer - Philippine's Computer Engineering Board - 2023
-##### Programmer/IT Software Developer - Provincial Government of Bohol - 2019 - 2022
-##### Instructor 1 - Bohol Island State University - 2022 - Present
+##### Programmer/IT Software Developer - Provincial Government of Bohol - 2019-2022
+##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023
+##### Instructor 1 - Bohol Island State University - 2022-Present
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

@@ -12,7 +12,7 @@
 5. Capstone projects
 6. Theses
 7. Dissertations
-<br>These are analyzed, planned, developed, created, implemented, reviewed, and monitored by the Makasa Laboratory owner, members, and guests for computing and related topics. 
+## These are analyzed, planned, developed, created, implemented, reviewed, and monitored by the Makasa Laboratory owner, members, and guests for computing and related topics. 
 
 ## Top Performing Students:
 ## These are the students who excel in Software Engineering:

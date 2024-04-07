@@ -86,9 +86,16 @@
 ##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023 (Graduated)
 ##### Doctor in Information Technology - Cebu Institute of Technology-University - 2023-Present
 ##### Certified Computer Engineer - Philippine's Computer Engineering Board - 2023
-##### COS/Parttime Instructor - Department of Computer Engineering - College of Engineering and Architecture - Bohol Island State University-Main Campus - 2019-2022
-##### COS Programmer/IT Software Developer - Software Development Section - Bohol Information and Communication Technology Office - Provincial Government of Bohol - 2019-2022
-##### Instructor 1 - Department of Computer Science - College of Technology and Allied Sciences - Bohol Island State University-Bilar Campus - 2022-Present
+##### Parttime Instructor - Department of Computer Engineering - College of Engineering and Architecture - Bohol Island State University-Main Campus - 2019-2022
+##### Programmer/IT Software Developer - Software Development Section - Bohol Information and Communication Technology Office - Provincial Government of Bohol - 2019-2022
+##### Faculty Rank/Appointment: Instructor 1 - College of Technology and Allied Sciences - Bohol Island State University-Bilar Campus - 2022-Present
+##### Faculty Designations: 
+##### Faculty Instructor - Department of Computer Science / Computer Science Department Office - College of Technology and Allied Sciences Office - Bohol Island State University-Bilar Campus - 2022-Present
+##### Faculty Writer - Instructional Materials Development Center - Bohol Island State University-Bilar Campus - 2022-Present
+##### Faculty Researcher - Research Office - Bohol Island State University-Bilar Campus - 2022-Present
+##### Faculty Creator - Innovation & Technology Support Office - Bohol Island State University-Bilar Campus - 2023-Present
+##### Faculty Extensionist - Extension Office - Bohol Island State University-Bilar Campus - 2023-Present
+
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
 ### https://maxangelo987.page/

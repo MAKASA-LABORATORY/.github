@@ -77,21 +77,7 @@
 ##### MALABUTE, JUSTIN, C.	
 #### The list is based on the 1.0 grade on the final grade.
 #
-#TOP 10 STUDENTS - FOR MIDTERM 
-Congratulations to these students for gaining the top 10 in the Intermediate Programming Course! Continue soaring to the top!
- 
-First Name	Last Name	OVERALL TOTAL
-Sunshine	Duran	98.06666667
-Jiemuel	Cabacoy	97.30013333
-Michael Angelo	Dielen	95.21866667
-Lady Marie Dorothy	Cuadra	93.76786667
-KEVIN	ESTO	92.72053333
-GLENMARK	SANDIGAN	92.50453333
-Jhon Ernest	Jaya	91
-Junrouie	Sasuman	90.34933333
-Jan Lea	Aurestila	88.06453333
-Kenth Michael	Buyan	87.97693333
- 
+#
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, MSCS, BSCpE, CCpE

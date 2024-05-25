@@ -75,6 +75,8 @@
 ## These are the students who excel in  Web Development / Web Enterprise:
 ## BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
 ##### MALABUTE, JUSTIN, C.	
+## BSCS 3A, CS 324, Term: 2, S.Y. 23-24 (Face-to-Face)
+##### CAHILES, BLESS, B.
 #### The list is based on the 1.0 grade on the final grade.
 #
 #

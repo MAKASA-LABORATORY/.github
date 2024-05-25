@@ -72,7 +72,7 @@
 ##### TASIC, KENT EDILBERT, T.
 ## BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ##### SAGLIBA, BRIAN, G.
-## These are the students who excel in  Web Development / Web Enterprise:
+## These are the students who excel in  Web Development / Web Enterprises:
 ## BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
 ##### MALABUTE, JUSTIN, C.	
 ## BSCS 3A, CS 324, Term: 2, S.Y. 23-24 (Face-to-Face)
@@ -83,7 +83,7 @@
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, MSCS, BSCpE, CCpE
-##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018 (Graduated)
+##### Bachelor of Science in Computer Engineering - Bohol Island State University - Main Campus - 2013-2018 (Graduated)
 ##### Master of Science in Computer Engineering major in Software Engineering - University of San Carlos - 2018-2019 (6 Units)
 ##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021 (Graduated)
 ##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023 (Graduated)

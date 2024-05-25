@@ -36,9 +36,11 @@
 ##### ᜇᜒᜋ᜔᜵ ᜇ᜔ᜌᜒᜈ᜔ ᜉ᜔ᜇᜒᜆ᜔ᜐᜒ᜵ ᜇ᜔᜶
 ##### ᜐᜓᜎᜒᜊ᜵ ᜇᜒᜇᜒᜃ᜔ ᜇ᜔ᜌᜓᜈ᜔᜵ ᜊ᜔᜶
 ##### ᜆᜓᜇᜒᜌᜒᜉᜒᜎ᜔᜵ ᜇ᜔ᜌᜈ᜔ ᜋᜇ᜔ᜌᜓᜐ᜔᜵ ᜀ᜶
+#### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Object Oriented Programming:
 ## **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20 (Face-to-face)**
 ##### ᜃᜋ᜔ᜉᜒᜐᜒᜈ᜔ᜌᜓ᜵ ᜄᜒᜐᜒᜎ᜔ ᜋᜇᜒ᜵ ᜆ᜔᜶
+#### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
 ## **BSEE 3, CPE 424, Term: 2, S.Y. 19-20 (Face-to-face/Online)**
 ##### ᜊᜌᜓᜃᜓᜆ᜔᜵ ᜐᜒᜌᜒᜎᜓ ᜇᜒᜎ᜔᜵ ᜊ᜔᜶	
@@ -66,19 +68,21 @@
 ## BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 (Online)
 ##### ᜃᜇᜒᜎᜒᜈᜒᜌ᜵ ᜋᜒᜌ᜔ᜇᜒ ᜇᜈᜒᜊ᜔᜵ ᜎ᜔᜶
 ##### ᜃᜇᜒᜌᜐ᜔᜵ ᜀᜎᜒᜐ ᜋᜒᜌ᜔᜵ ᜄ᜔᜶
+#### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Intermediate Programming:
 ## BSCS 1B, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ##### CUTORA, EDEN PEARL, F.
 ##### TASIC, KENT EDILBERT, T.
 ## BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ##### SAGLIBA, BRIAN, G.
+#### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in  Web Development / Web Enterprises:
 ## BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
 ##### MALABUTE, JUSTIN, C.	
 ## BSCS 3A, CS 324, Term: 2, S.Y. 23-24 (Face-to-Face)
 ##### CAHILES, BLESS, B.
 ##### BAUTISTA, CHRISTIAN, C.
-#### The list is based on the 1.0 grade on the final grade.
+#### The list is based on a 1.0 grade on the final grade.
 #
 #
 #

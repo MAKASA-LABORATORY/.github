@@ -84,7 +84,10 @@
 ##### BAUTISTA, CHRISTIAN, C.
 #### The list is based on a 1.0 grade on the final grade.
 #
-#
+### Sharing some Feedbacks from CodeCHum
+![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/597bec73-a6f7-4f14-aa1e-ba159fe5f369)
+![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/9904ee24-d0fb-4ff0-849d-eb8bf3203182)
+
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, MSCS, BSCpE, CCpE

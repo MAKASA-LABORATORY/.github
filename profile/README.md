@@ -83,6 +83,11 @@
 ##### CAHILES, BLESS, B.
 ##### BAUTISTA, CHRISTIAN, C.
 #### The list is based on a 1.0 grade on the final grade.
+## These are the students who excel in  Database Systems / Information Management:
+## BSCS 2A, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
+##### POLOT, ALESSANDRA, G.	
+##### TASIC, KENT EDILBERT, T.
+#### The list is based on a 1.0 grade on the final grade.
 #
 ### Sharing some Feedbacks from CodeCHum
 ![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/597bec73-a6f7-4f14-aa1e-ba159fe5f369)

@@ -87,6 +87,8 @@
 ## BSCS 2A, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
 ##### POLOT, ALESSANDRA, G.	
 ##### TASIC, KENT EDILBERT, T.
+## BSCS 2B, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
+##### SALARDA, PAUL JR., E.	
 #### The list is based on a 1.0 grade on the final grade.
 #
 ### Sharing some Feedbacks from CodeCHum

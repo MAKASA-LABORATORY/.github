@@ -75,7 +75,7 @@
 ##### TASIC, KENT EDILBERT, T.
 ## BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
 ##### SAGLIBA, BRIAN, G.
-## BSCS 1A, CS 121, Term: 2, S.Y. 23-24 (Face-to-Face)
+## BSCS 1A, CC 121, Term: 2, S.Y. 23-24 (Face-to-Face)
 ##### DIELEN, MICHAEL ANGELO, P.	
 ##### DURAN, SUNSHINE, S.		
 #### The list is based on a 1.0 grade on the final grade.

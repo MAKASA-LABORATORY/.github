@@ -96,7 +96,7 @@
 ## These are the students who excel in  Web Development / Web Enterprises:
 ## BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
 ### High Achievers:
-##### MALABUTE, JUSTIN, C.	
+##### MALABUTE, JUSTIN, C.	(Software Engineer - Accenture in the Philippines )
 ## BSCS 3A, CS 324, Term: 2, S.Y. 23-24 (Face-to-Face)
 ### High Achievers:
 ##### CAHILES, BLESS, B.

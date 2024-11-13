@@ -115,13 +115,18 @@
 
 ## These are the students who are part of Internal and External Projects:
 ## eBaybayMo
-### Students Developers:
+### Team:
+##### PERIN, MAX ANGELO, D.	(Co-Founder)
+##### CARDAÑA, DARREL, A.	(Co-Founder)
+##### GUMANOY, CECILIA, T.	(Co-Founder)
 ##### MALAREJES, JOHN STEPHEN, B.	(Frontend Developer, React.js)
 ##### MERCADO, MARCO PIOLO, P. (Backend Developer, Node.js, SQL)
 ##### PABALATE, ROCKY, M.	(Mobile Developer, Flutter)
 
 ## BHRS (Bangsamoro Human Rights Survey) - A Joint Project of UNOPS, Subatra, Bangsamoro Human Rights Commision, De La Salle University Manila, SDRC DLSU, Ateneo de Devao, Al Qalam 
-### Students Developers:
+### Team:
+##### PERIN, MAX ANGELO, D.	(Senior Survey Software Developer)
+##### CARDAÑA, DARREL, A.	(Senior Survey Software Developer)
 ##### MALAREJES, JOHN STEPHEN, B.	(Senior Survey Software Developer)
 ##### MERCADO, MARCO PIOLO, P. (Senior Survey Software Developer)
 ##### NALUAL, MARY GRACE (Junior Survey Software Developer)

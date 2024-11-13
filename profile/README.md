@@ -1,26 +1,25 @@
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b867383-222f-440e-b24f-cf1318edb29d" alt="image" width="300" height="300" />
  
  </p>
 
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY x Full Stack Masters
-## Computing and Engineering Research and Development  https://bit.ly/3czaWnt
+## Computing Research and Development  https://bit.ly/3czaWnt
 #
-## This organization includes the development of:
+## Focus Areas:
 1. Technical reports
 2. Research proposals
 3. Mini research projects
-4. Projects
-5. Capstone projects
-6. Theses
-7. Dissertations
-## These are analyzed, planned, developed, created, implemented, reviewed, and monitored by the Makasa Laboratory owner, members, and guests for computing and related topics. 
+6. Capstone Projects
+7. Theses
+8. Dissertations
+9. Internal and External Funded Projects
+## Makasa Laboratory x Full Stack Masters oversees these areas' analysis, planning, development, creation, implementation, review, and monitoring for computing and related topics.
 
 ## Top Performing Students:
 ## These are the students who excel in Software Engineering:
-## **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project Based-Student who successfully submitted the functional system)**
+## **BSCPE 4, CPE 422, Term: 2, S.Y. 19-20 (Project-Based, with successfully functional submissions)**
+### High Achievers:
 ##### ᜀᜈᜓᜊ᜵ ᜊ᜔ᜇᜇ᜔ᜎᜒᜌ᜔᜵ ᜊ᜔᜶
 ##### ᜀᜉᜎᜒᜐᜓᜃ᜔᜵ ᜋᜇᜒᜇ᜔ᜌᜓᜈ᜔᜵ ᜄ᜔᜶
 ##### ᜊᜒᜎ᜔ᜇᜒᜇᜓᜎ᜔᜵ ᜇᜒᜈ᜔ᜐᜓ᜵ ᜀ᜶
@@ -43,16 +42,19 @@
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Object Oriented Programming:
 ## **OFFSEM-BSCPE 2, CPE 121, Term: 2, S.Y. 19-20 (Face-to-face)**
+### High Achievers:
 ##### ᜃᜋ᜔ᜉᜒᜐᜒᜈ᜔ᜌᜓ᜵ ᜄᜒᜐᜒᜎ᜔ ᜋᜇᜒ᜵ ᜆ᜔᜶
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Microprocessor Systems (Microprocessor/Microcontroller):
 ## **BSEE 3, CPE 424, Term: 2, S.Y. 19-20 (Face-to-face/Online)**
+### High Achievers:
 ##### ᜊᜌᜓᜃᜓᜆ᜔᜵ ᜐᜒᜌᜒᜎᜓ ᜇᜒᜎ᜔᜵ ᜊ᜔᜶	
 ##### ᜃᜓᜐ᜔ᜆᜈ᜔᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜋᜒᜎ᜔ᜊᜒᜈ᜔᜵ ᜐ᜔᜶	
 ##### ᜇᜓᜊ᜔ᜎᜐ᜔᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜃ᜔ᜑ᜔ᜇᜒᜐ᜔ᜆᜒᜌᜈ᜔᜵ ᜇ᜔᜶	
 ##### ᜇᜓᜋᜓᜃ᜔᜵ ᜇᜒᜃᜓ᜵ ᜁ᜶	
 ##### ᜐᜎᜒ᜵ ᜐᜒᜌᜒᜇ᜔ᜌ᜔ᜋᜓᜇ᜔ᜈ᜔᜵ ᜎ᜔᜶	
 ## **BSME 3, CPE 01, Term: 1, S.Y. 21-22 (Online)**
+### High Achievers:
 ##### ᜊᜎ᜔ᜊᜒᜇᜓ᜵ ᜁᜌ᜔ᜈ᜔ᜇ᜔ᜌᜒᜎ᜔ ᜊᜒᜇ᜔ᜆ᜔᜵ ᜀ᜶
 ##### ᜃᜐ᜔ᜆᜒᜎ᜔ᜌᜓᜈ᜔᜵ ᜎᜒᜈᜇ᜔ᜇ᜔᜵ ᜊ᜔᜶
 ##### ᜇᜓᜎ᜔ᜇᜓᜎᜒᜌ᜵ ᜇ᜔ᜌᜓᜈ᜔ ᜇᜓᜐᜒᜈ᜔ᜇ᜔᜵ ᜃ᜔᜶
@@ -65,38 +67,48 @@
 ##### ᜐᜎᜓᜋᜓᜈ᜔᜵ ᜎᜓᜌ᜔ᜇ᜔ ᜃ᜔ᜑ᜔ᜇᜒᜐ᜔ᜆᜒᜌᜈ᜔᜵ ᜃ᜔᜶
 ##### ᜐᜓᜃᜓᜇᜒᜈ᜔᜵ ᜎᜒᜌᜓᜈᜒᜎ᜔ ᜇᜒᜌ᜔ᜊ᜔᜵ ᜉ᜔᜶
 ## BSEE 3A, CPE 03, Term: 2, S.Y. 21-22 (Online)
+### High Achievers:
 ##### ᜀᜈᜓᜈ᜔ᜐᜒᜌᜇᜓ᜵ ᜇᜇᜒᜎ᜔᜵ ᜆ᜔᜶
 ##### ᜎᜓᜉᜓᜌ᜔᜵ ᜆᜒᜌᜇ ᜊᜒᜈᜒᜐᜒᜌᜒᜈ᜵ ᜊ᜔᜶
 ##### ᜇᜓᜎᜓᜋ᜵ ᜇ᜔ᜌᜒᜌ᜔᜵ ᜑ᜔᜶
 ##### ᜆᜄᜓᜇᜒᜈ᜔᜵ ᜀᜈ᜔ᜆᜓᜈᜒ᜵ ᜐ᜔᜶
 ## BSCpE 3A, CPE 323, Term: 2, S.Y. 21-22 (Online)
+### High Achievers:
 ##### ᜃᜇᜒᜎᜒᜈᜒᜌ᜵ ᜋᜒᜌ᜔ᜇᜒ ᜇᜈᜒᜊ᜔᜵ ᜎ᜔᜶
 ##### ᜃᜇᜒᜌᜐ᜔᜵ ᜀᜎᜒᜐ ᜋᜒᜌ᜔᜵ ᜄ᜔᜶
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in Intermediate Programming:
 ## BSCS 1B, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
+### High Achievers:
 ##### CUTORA, EDEN PEARL, F.
 ##### TASIC, KENT EDILBERT, T.
 ## BSCS 1C, CS 121, Term: 2, S.Y. 22-23 (Hybrid)
+### High Achievers:
 ##### SAGLIBA, BRIAN, G.
 ## BSCS 1A, CC 121, Term: 2, S.Y. 23-24 (Face-to-Face)
+### High Achievers:
 ##### DIELEN, MICHAEL ANGELO, P.	
 ##### DURAN, SUNSHINE, S.		
 ## BSCS 1C, CC 121, Term: 2, S.Y. 23-24 (Face-to-Face)
+### High Achievers:
 ##### CABACOY, JIEMUEL, Y.	
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in  Web Development / Web Enterprises:
 ## BSCS 3A, CS 324, Term: 2, S.Y. 22-23 (Hybrid)
+### High Achievers:
 ##### MALABUTE, JUSTIN, C.	
 ## BSCS 3A, CS 324, Term: 2, S.Y. 23-24 (Face-to-Face)
+### High Achievers:
 ##### CAHILES, BLESS, B.
 ##### BAUTISTA, CHRISTIAN, C.
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in  Database Systems / Information Management:
 ## BSCS 2A, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
+### High Achievers:
 ##### POLOT, ALESSANDRA, G.	
 ##### TASIC, KENT EDILBERT, T.
 ## BSCS 2B, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
+### High Achievers:
 ##### SALARDA, PAUL JR., E.	
 #### The list is based on a 1.0 grade on the final grade.
 #
@@ -107,14 +119,17 @@
 #
 # Prepared By:
 ## Max Angelo Dapitilla Perin, MSCS, BSCpE, CCpE
+### Educational Background:
 ##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018 (Graduated)
 ##### Master of Science in Computer Engineering major in Software Engineering - University of San Carlos - 2018-2019 (6 Units)
 ##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021 (Graduated)
 ##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023 (Graduated)
 ##### Doctor in Information Technology - Cebu Institute of Technology-University - 2023-Present
 ##### Certified Computer Engineer - Philippine's Computer Engineering Board - 2023
+### Professional Experience:
 ##### Parttime Instructor - Department of Computer Engineering - College of Engineering and Architecture - Bohol Island State University-Main Campus - 2019-2022
 ##### Programmer/IT Software Developer - Software Development Section - Bohol Information and Communication Technology Office - Provincial Government of Bohol - 2019-2022
+### Faculty Positions:
 #### Faculty Appointments: 
 ##### Instructor 1 - College of Technology and Allied Sciences - Bohol Island State University-Bilar Campus - 2022-Present
 #### Faculty Designations: 
@@ -123,6 +138,8 @@
 ##### Faculty Researcher - Research Office - Bohol Island State University-Bilar Campus - 2022-Present
 ##### Faculty Creator - Innovation & Technology Support Office - Bohol Island State University-Bilar Campus - 2023-Present
 ##### Faculty Extensionist - Extension Office - Bohol Island State University-Bilar Campus - 2023-Present
+### Faculty Positions Linkages:
+##### Survey Software Developer - Backend and Database Developer - Social Development Research Center - De La Salle University (Consultancy services for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines) - 2024-Present
 
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory

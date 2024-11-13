@@ -1,8 +1,5 @@
  <p align="center">
-![image](https://github.com/user-attachments/assets/318869f0-a1d0-4efb-87f6-bf8329045784)
-![Makasa Lab x Full Stack Master](https://github.com/user-attachments/assets/2b708c68-4ba6-4222-a420-0bbe7e0e7eea)
-![image](https://github.com/user-attachments/assets/4a71f4c3-eabc-4b4e-8b32-8d05fde37174)
-
+![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/597bec73-a6f7-4f14-aa1e-ba159fe5f369](https://github-production-user-asset-6210df.s3.amazonaws.com/10474143/385917164-83a179ea-410a-4245-9ab7-fa0c2b666217.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241113T193502Z&X-Amz-Expires=300&X-Amz-Signature=9c297250b5aad451214139556d44e981a48125d360b4de0a812a58c1ef28640d&X-Amz-SignedHeaders=host)
  </p>
 
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development  https://bit.ly/3czaWnt

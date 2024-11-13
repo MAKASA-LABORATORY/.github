@@ -1,11 +1,12 @@
- <p align="center">
-
-![image](https://github.com/user-attachments/assets/01c86309-03dd-4169-92a3-d2a3171a57f0)
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b867383-222f-440e-b24f-cf1318edb29d" alt="image" width="300" height="300" />
+ 
  </p>
 
-## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development  https://bit.ly/3czaWnt
+## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY x Full Stack Masters
+## Computing and Engineering Research and Development  https://bit.ly/3czaWnt
 #
 ## This organization includes the development of:
 1. Technical reports

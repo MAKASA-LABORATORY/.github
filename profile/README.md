@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/MAKASA-LABORATORY/.github/assets/10474143/b495d04f-db99-48f0-85dd-6bcc7a1399fc" alt="image" width="300" height="300" />
+  ![Makasa Lab x Full Stack Master](https://github.com/user-attachments/assets/d15e21f2-616b-40fd-861c-b9d0d936705c)
  </p>
 
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY Computing and Engineering Research and Development  https://bit.ly/3czaWnt

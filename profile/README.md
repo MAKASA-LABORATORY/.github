@@ -112,6 +112,28 @@
 ##### SALARDA, PAUL JR., E.	
 #### The list is based on a 1.0 grade on the final grade.
 #
+
+## These are the students who are part of Internal and External Projects:
+## eBaybayMo
+### Students Developers:
+##### MALAREJES, JOHN STEPHEN, B.	(Frontend Developer, React.js)
+##### MERCADO, MARCO PIOLO, P. (Backend Developer, Node.js, SQL)
+##### PABALATE, ROCKY, M.	(Mobile Developer, Flutter)
+
+## BHRS (Bangsamoro Human Rights Survey) - A Joint Project of UNOPS, Subatra, Bangsamoro Human Rights Commision, De La Salle University Manila, SDRC DLSU, Ateneo de Devao, Al Qalam 
+### Students Developers:
+##### MALAREJES, JOHN STEPHEN, B.	(Senior Survey Software Developer)
+##### MERCADO, MARCO PIOLO, P. (Senior Survey Software Developer)
+##### NALUAL, MARY GRACE (Junior Survey Software Developer)
+##### BUCAR, JOHN IRVIN, O.	(Junior Survey Software Developer)	
+##### BASLOT, EVANDER JAY, P.	(Junior Survey Software Developer)
+##### MAR, JOHNNIEL, B.	(Junior Survey Software Developer)
+##### ADLAON, CHRISTIAN JHON, B.	(Junior Survey Software Developer)	
+##### SALARDA, PAUL JR., E.	(Junior Survey Software Developer)
+##### TASIC, KENT EDILBERT, T. (Junior Survey Software Developer)	
+##### POLOT, ALESSANDRA, G. (Junior Survey Software Developer)
+
+#
 ### Sharing some Feedback from CodeCHum
 ![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/597bec73-a6f7-4f14-aa1e-ba159fe5f369)
 ![image](https://github.com/MAKASA-LABORATORY/.github/assets/10474143/9904ee24-d0fb-4ff0-849d-eb8bf3203182)

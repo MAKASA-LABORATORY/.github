@@ -113,7 +113,7 @@
 #### The list is based on a 1.0 grade on the final grade.
 #
 
-## These are the students who are part of Internal and External Projects:
+## These are the students who are part of Internal, External and Linkages Projects:
 ## eBaybayMo
 ### Team:
 ##### PERIN, MAX ANGELO, D.	(Co-Founder)

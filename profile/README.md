@@ -5,7 +5,7 @@
 
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA LABORATORY x Full Stack Masters
 ## Computing Research and Development  
-### ResearchGate https://bit.ly/3czaWnt
+### ResearchGate: https://bit.ly/3czaWnt
 ### Google Play: https://play.google.com/store/apps/dev?id=4632754993927180206
 #
 ## Focus Areas:

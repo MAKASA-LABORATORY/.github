@@ -1,6 +1,7 @@
  <p align="center">
 ![image](https://github.com/user-attachments/assets/318869f0-a1d0-4efb-87f6-bf8329045784)
 ![Makasa Lab x Full Stack Master](https://github.com/user-attachments/assets/2b708c68-4ba6-4222-a420-0bbe7e0e7eea)
+![image](https://github.com/user-attachments/assets/4a71f4c3-eabc-4b4e-8b32-8d05fde37174)
 
  </p>
 

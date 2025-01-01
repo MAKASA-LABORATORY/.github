@@ -113,6 +113,31 @@
 ### High Achievers:
 ##### SALARDA, PAUL JR., E.	
 #### The list is based on a 1.0 grade on the final grade.
+## These are the students who excel in  Algorithms and Complexity:
+## BSCS 3A, CS 311, Term: 1, S.Y. 24-25 (Face-to-Face)
+### High Achievers:
+##### SAGLIBA, BRIAN, G.	
+#### The list is based on a 1.0 grade on the final grade.
+## These are the students who excel in  Data Structures and Algorithms:
+## BSCS 2A, CS 211, Term: 1, S.Y. 24-25 (Face-to-Face)
+### High Achievers:
+##### DIELEN, MICHAEL ANGELO, P.	
+##### DURAN, SUNSHINE, S.	
+##### RAGANAS, IZZY KYLE, A.	
+##### TUTOR, BONEVIE, C.	
+## BSCS 2B, CS 211, Term: 1, S.Y. 24-25 (Face-to-Face)
+### High Achievers:
+##### ARONG, ARA JANE, T.	
+##### BACASMAS, MIKE GERALD, S.	
+##### BUCAR, MARY JOYCE, B.
+##### CADENAS, MARY GRACE, L.
+##### ESTO, KEVIN, D.
+##### JAYA, JHON ERNEST, I.
+##### QUIREQUIRE, KYLA, B.
+## BSCS 2C, CS 211, Term: 1, S.Y. 24-25 (Face-to-Face)
+### High Achievers:
+##### CABACOY, JIEMUEL, Y.	
+#### The list is based on a 1.0 grade on the final grade.
 #
 
 ## These are the students who are part of Internal, External and Linkages Projects:

@@ -1,6 +1,58 @@
-# 👨‍💻 Full Stack Masters | A.Y. 2023–2024
+# 👨‍💻 Full Stack Masters | 2025
 
-Welcome to the official GitHub organization of **Full Stack Masters** for Academic Year 2023–2024. This space showcases our development work, collaborative projects, and technical initiatives as we continue to grow as future software engineers and full stack professionals.
+Welcome to the official GitHub organization of **Full Stack Masters** for Year 2025. This organization is dedicated to showcasing collaborative software projects, technical development efforts, and learning initiatives led by the team.
+
+## 🏛️ Officers
+
+- **Officer-in-Charge (OIC):** Paul Jr. E. Salarda  
+- **Secretary:** Kathleen C. Gonzaga *(Appointed by Sir Max Angelo Perin)*  
+- **Assistant Secretary:** Rhea Jean A. Lagare *(Appointed by Sir Max Angelo Perin)*  
+
+> The OIC is responsible for leading the team, creating and managing repositories, evaluating outputs, and facilitating participation in extension activities.
+
+---
+
+## 💼 Department Heads (Based on Domains)
+
+| Domain           | Head(s)                          |
+|------------------|----------------------------------|
+| **Desktop**       | Christian Jhon Adlaon            |
+| **Web**           | Jeany Babe Pailanan              |
+| **Mobile**        | Eden Pearl Cutora                |
+| **Embedded Systems** | Mark Ryan Balatero           |
+| **Design**        | Jan Niño Turan, Emmanuel Bitancor|
+| **Backend / Database** | Paul Jr. E. Salarda, Jeany Babe Pailanan, Sir Max Angelo Perin |
+
+---
+
+## 🧪 Quality Assurance (Software Testers)
+
+- Sir Darrel Cardaña *(Project Director)*
+- Sir Max Angelo Perin *(Project Director)*
+- John Stephen Malarejes
+- Marco Piolo Mercado
+- 4th Year Students
+- Aspirants
+- Documentors
+
+---
+
+## 🎯 Programming Competition Coordinators (for Aspirants)
+
+- Brian Sagliba  
+- Sunshine Duran  
+- Kathleen C. Gonzaga  
+
+---
+
+> 💡 *Full Stack Masters is a vibrant community of aspiring developers and engineers working together to build practical, innovative, and scalable solutions.*
+
+Let’s build. Let’s innovate. Let’s master the stack. 🚀
+
+
+# 👨‍💻 Full Stack Masters | 2024
+
+Welcome to the official GitHub organization of **Full Stack Masters** for 2024. This space showcases our development work, collaborative projects, and technical initiatives as we continue to grow as future software engineers and full-stack professionals.
 
 ## 🏛️ Officers
 

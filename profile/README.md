@@ -265,12 +265,14 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 ### Faculty Positions:
 #### Faculty Appointments: 
 ##### Instructor 1 - College of Technology and Allied Sciences - Bohol Island State University-Bilar Campus - 2022-Present
-#### Faculty Designations: 
+#### Faculty Mandates: 
 ##### Faculty Instructor - Department of Computer Science / Computer Science Department Office - Bohol Island State University-Bilar Campus - 2022-Present
 ##### Faculty Writer - Instructional Materials Development Center - Bohol Island State University-Bilar Campus - 2022-Present
 ##### Faculty Researcher - Research Office - Bohol Island State University-Bilar Campus - 2022-Present
 ##### Faculty Creator - Innovation & Technology Support Office - Bohol Island State University-Bilar Campus - 2023-Present
 ##### Faculty Extensionist - Extension Office - Bohol Island State University-Bilar Campus - 2023-Present
+#### Faculty Designations:
+##### College of Technology ITSO Chair - Innovation & Technology Support Office - Bohol Island State University-Bilar Campus - 2025-Present
 ### Faculty Positions Linkages:
 ##### Survey Software Developer - Backend and Database Developer - Social Development Research Center - De La Salle University (Consultancy services for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines) - 2024-Present
 

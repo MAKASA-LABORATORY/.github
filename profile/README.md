@@ -37,7 +37,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for the Ye
 
 ---
 
-## 🎯 Programming Competition Coordinators (for Aspirants)
+## 🎯 Programming/StartUp Competition Coordinators (for Aspirants)
 
 - Brian Sagliba  
 - Sunshine Duran  

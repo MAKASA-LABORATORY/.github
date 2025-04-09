@@ -1,3 +1,30 @@
+# 👨‍💻 Full Stack Masters | A.Y. 2023–2024
+
+Welcome to the official GitHub organization of **Full Stack Masters** for Academic Year 2023–2024. This space showcases our development work, collaborative projects, and technical initiatives as we continue to grow as future software engineers and full stack professionals.
+
+## 🏛️ Officers
+
+- **Officer-in-Charge (OIC):** John Stephen Malarejes  
+- **Secretary:** Mary Grace Nalual
+
+## 💻 Full Stack Developers
+
+| Name                            | Role                                |
+|---------------------------------|-------------------------------------|
+| **Malarejes, John Stephen, B.** | Senior Survey Software Developer    |
+| **Mercado, Marco Piolo, P.**    | Senior Survey Software Developer    |
+| **Nalual, Mary Grace**          | Junior Survey Software Developer    |
+| **Bucar, John Irvin, O.**       | Junior Survey Software Developer    |
+| **Baslot, Evander Jay, P.**     | Junior Survey Software Developer    |
+| **Mar, Johnniel, B.**           | Junior Survey Software Developer    |
+| **Adlaon, Christian Jhon, B.**  | Junior Survey Software Developer    |
+| **Salarda, Paul Jr., E.**       | Junior Survey Software Developer    |
+| **Tasic, Kent Edilbert, T.**    | Junior Survey Software Developer    |
+| **Polot, Alessandra, G.**       | Junior Survey Software Developer    |
+
+---
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3d08400-6c5f-4513-9762-d07c903ad0a4" alt="image" />
  

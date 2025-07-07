@@ -191,6 +191,10 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 ## BSCS 2B, CS 221, Term: 2, S.Y. 23-24 (Face-to-Face)
 ### High Achievers:
 ##### SALARDA, PAUL JR., E.	
+## BSCS 2A, CC 221, Term: 2, S.Y. 24-25 (Face-to-Face)
+### High Achievers:
+##### BONSAYON, JOMARI, G.	
+##### DURAN, SUNSHINE, S.	
 #### The list is based on a 1.0 grade on the final grade.
 ## These are the students who excel in  Algorithms and Complexity:
 ## BSCS 3A, CS 311, Term: 1, S.Y. 24-25 (Face-to-Face)

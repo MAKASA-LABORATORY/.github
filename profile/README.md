@@ -255,16 +255,16 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 
 #
 # Prepared By:
-## Max Angelo Dapitilla Perin, MSCS, BSCpE, CCpE
+## Max Angelo Dapitilla Perin, BSCpE, CCpE, MSCS
 ### Educational Background:
 ##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018 (Graduated)
 ##### Master of Science in Computer Engineering major in Software Engineering - University of San Carlos - 2018-2019 (6 Units)
 ##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021 (Graduated)
 ##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023 (Graduated)
 ##### Doctor in Information Technology - Cebu Institute of Technology-University - 2023-Present
-##### Certified Computer Engineer - Philippine's Computer Engineering Board - 2023
+##### Certified Computer Engineer - Philippines' Computer Engineering Board - 2023
 ### Professional Experience:
-##### Parttime Instructor - Department of Computer Engineering - College of Engineering and Architecture - Bohol Island State University-Main Campus - 2019-2022
+##### Part-time Instructor - Department of Computer Engineering - College of Engineering and Architecture - Bohol Island State University-Main Campus - 2019-2022
 ##### Programmer/IT Software Developer - Software Development Section - Bohol Information and Communication Technology Office - Provincial Government of Bohol - 2019-2022
 ### Faculty Positions:
 #### Faculty Appointments: 

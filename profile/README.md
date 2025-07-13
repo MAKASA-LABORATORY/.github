@@ -1,4 +1,4 @@
-# Modern, Adaptive Knowledge in Agriculture, Science, and Arts (MAKASA)
+# Modern, Adaptive Knowledge in Agriculture, Science, and Arts (MAKASA) Laboratory
 
 # 👨‍💻 Full Stack Masters | 2025
 

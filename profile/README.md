@@ -264,6 +264,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 ##### Master of Science in Computer Science - Cebu Institute of Technology-University - 2019-2021 (Graduated)
 ##### Data Science Pathway - Project SPARTA Scholar - Development Academy of the Philippines - 2020-2023 (Graduated)
 ##### Doctor in Information Technology - Cebu Institute of Technology-University - 2023-Present
+### Professional Certificates:
 ##### Scrum Foundation Professional Certificate - CertiProf - 2020
 ##### Certified Computer Engineer - Philippines' Computer Engineering Board - 2023
 ### Professional Experience:

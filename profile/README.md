@@ -1,3 +1,5 @@
+# Modern, Adaptive Knowledge in Agriculture, Science, and Arts (MAKASA)
+
 # 👨‍💻 Full Stack Masters | 2025
 
 Welcome to the official GitHub organization of **Full Stack Masters** for the Year 2025. This organization is dedicated to showcasing collaborative software projects, technical development efforts, and learning initiatives led by the team.

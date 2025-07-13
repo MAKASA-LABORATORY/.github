@@ -282,7 +282,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 #### Faculty Designations:
 ##### College of Technology ITSO Chair - Innovation & Technology Support Office - Bohol Island State University-Bilar Campus - January 2025-July 2025
 ### Faculty Positions Linkages:
-##### Survey Software Developer - Backend and Database Developer - Social Development Research Center - De La Salle University (Consultancy services for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines) - 2024-Present
+##### Survey Software Developer - Backend and Database Developer - Social Development Research Center - De La Salle University (Consultancy services for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines) - August 2024-March 2025
 
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA Laboratory

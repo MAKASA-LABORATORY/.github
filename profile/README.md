@@ -257,7 +257,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 
 #
 # Prepared By:
-## Max Angelo Dapitilla Perin, BSCpE, CCpE, MSCS
+## Inst. Engr. Max Angelo Dapitilla Perin, BSCpE, CCpE, MSCS, SFPC, SPARTA‑DS
 ### Educational Background:
 ##### Bachelor of Science in Computer Engineering - Bohol Island State University-Main Campus - 2013-2018 (Graduated)
 ##### Master of Science in Computer Engineering major in Software Engineering - University of San Carlos - 2018-2019 (6 Units)
@@ -283,5 +283,5 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 ##### Survey Software Developer - Backend and Database Developer - Social Development Research Center - De La Salle University (Consultancy services for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines) - 2024-Present
 
 ## ᜆᜄᜉᜅᜐᜒᜏ 
-### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ Makasa Laboratory
+### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA Laboratory
 ### https://maxangelo987.page/

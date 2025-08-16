@@ -1,4 +1,4 @@
-# Modern, Adaptive Knowledge in Agriculture, Science, and Arts (MAKASA) Laboratory x Full Stack Masters, Computing Society, BISU-Bilar Campus
+# 𝐌odern, 𝐀daptive 𝐊nowledge in 𝐀griculture, 𝐒cience, and 𝐀rts (MAKASA) Laboratory x Full Stack Masters, Computing Society, BISU-Bilar Campus
 
 # 👨‍💻 Full Stack Masters | 2025
 
@@ -287,3 +287,5 @@ Welcome to the official GitHub organization of **Full Stack Masters** for 2024. 
 ## ᜆᜄᜉᜅᜐᜒᜏ 
 ### ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ MAKASA Laboratory
 ### https://maxangelo987.page/
+
+> *“For it’s not just systems that I refine—It’s lives I uplift, one code at a time.”* — Perin, M. A. D. (2025). Still, I hold on. In NATIONAL Featured Creative Works SIXIR (Alpha) Literary Folio. Pinagpala Publishing Services Book Publisher. https://www.pinagpalapublishing.com/publications/book-vii_sixir-alpha-a-literary-folio-book#h.6fqsrpd3bsqo

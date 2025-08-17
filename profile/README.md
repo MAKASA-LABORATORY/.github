@@ -1,4 +1,4 @@
-# 𝐌odern, 𝐀daptive 𝐊nowledge in 𝐀griculture, 𝐒cience, and 𝐀rts (MAKASA) Laboratory x Full Stack Masters, Computing Society, BISU-Bilar Campus
+# 𝐌odern, 𝐀daptive 𝐊nowledge in 𝐀griculture, 𝐒cience, and 𝐀rts (MAKASA) Laboratory x Full Stack Masters, Computing Society, Bohol Island State University
 
 # 👨‍💻 Full Stack Masters | 2025
 

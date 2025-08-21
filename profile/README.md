@@ -1,10 +1,5 @@
 # 𝐌odern, 𝐀daptive 𝐊nowledge in 𝐀griculture, 𝐒cience, and 𝐀rts (MAKASA) Laboratory x Full Stack Masters, Computing Society, Bohol Island State University
-## 🌟 Weekly Programming Challenge — S.Y. 2024–2025
 
-**Top Performers**
-- 🥇 **Top 1:** Sunshine Duran
-- 🥈 **Top 2:** Glyka Lhen Mangmang
-- 🥉 **Top 3:** Glory Grace Inte
 
 # 👨‍💻 Full Stack Masters | 2025
 
@@ -41,7 +36,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for the Ye
 - Marco Piolo Mercado
 - 4th Year Students
 - Aspirants
-- Documentors
+- Documenters
 
 ---
 
@@ -51,6 +46,12 @@ Welcome to the official GitHub organization of **Full Stack Masters** for the Ye
 - Sunshine Duran  
 - Kathleen C. Gonzaga  
 
+## 🌟 Weekly Programming Challenge — S.Y. 2024–2025
+
+**Top Performers**
+- 🥇 **Top 1:** Sunshine Duran
+- 🥈 **Top 2:** Glyka Lhen Mangmang
+- 🥉 **Top 3:** Glory Grace Inte
 ---
 
 > 💡 *Full Stack Masters is a vibrant community of aspiring developers and engineers working together to build practical, innovative, and scalable solutions.*

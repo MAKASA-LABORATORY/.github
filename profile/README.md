@@ -1,4 +1,10 @@
 # 𝐌odern, 𝐀daptive 𝐊nowledge in 𝐀griculture, 𝐒cience, and 𝐀rts (MAKASA) Laboratory x Full Stack Masters, Computing Society, Bohol Island State University
+## 🌟 Weekly Programming Challenge — S.Y. 2024–2025
+
+**Top Performers**
+- 🥇 **Top 1:** Sunshine Duran
+- 🥈 **Top 2:** Glyka Lhen Mangmang
+- 🥉 **Top 3:** Glory Grace Inte
 
 # 👨‍💻 Full Stack Masters | 2025
 

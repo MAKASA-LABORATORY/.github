@@ -42,9 +42,9 @@ Welcome to the official GitHub organization of **Full Stack Masters** for the Ye
 
 ## 🎯 Programming/StartUp Competition Coordinators (for Aspirants)
 
-- Brian Sagliba  
-- Sunshine Duran  
-- Kathleen C. Gonzaga  
+- Brian Sagliba  (Startup/Programming)
+- Sunshine Duran  (Programming)
+- Kathleen C. Gonzaga  (Startup)
 
 ## 🌟 Weekly Programming Challenge — S.Y. 2024–2025
 

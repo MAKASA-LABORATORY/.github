@@ -24,7 +24,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for the Ye
 | **Mobile**        | Eden Pearl Cutora                |
 | **Embedded Systems** | Mark Ryan Balatero           |
 | **Design**        | Jan Niño Turan, Emmanuel Bitancor, Angelica Gera|
-| **Backend / Database** | Paul Jr. E. Salarda, Jeany Babe Pailanan, Sir Max Angelo Perin |
+| **Backend / Database** | Jeany Babe Pailanan |
 
 ---
 

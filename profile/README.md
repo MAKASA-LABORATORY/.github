@@ -125,7 +125,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 * Capstone projects
 * Theses
 * Dissertations
-* Internal and external funded projects
+* Internal and externally funded projects
 
 **Makasa Laboratory × Full Stack Masters** oversees analysis, planning, development, implementation, review, and monitoring for computing and related topics.
 
@@ -266,7 +266,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 **BSCS 3A, CS 324, Term: 2, S.Y. 23–24 (Face‑to‑Face)**
 
 * CAHILES, BLESS, B.
-* BAUTISTA, CHRISTIAN, C.
+* BAUTISTA, CHRISTIAN, C. *(BS Information System Faculty — Carmen Municipal College)*
 
 ### Database Systems / Information Management
 

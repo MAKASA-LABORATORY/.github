@@ -10,7 +10,7 @@
 > * **Do not remove, privatize, or monetize** official outputs without **written permission**.
 > * Request written approval **before external publication, licensing, or commercialization**.
 >
-> Violations may result in **removal of access**, **grade or conduct actions**, and **formal escalation** per University policy.
+> Violations may result in **removal of access**, **temporary or permanent ban from the organization and all repositories**, **grade or conduct actions**, and **formal escalation** per University policy.
 
 ---
 
@@ -112,7 +112,9 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ — MAKASA LABORATORY × Full Stack Masters
 
 **Computing Research and Development**
+
 **ResearchGate:** [https://bit.ly/3czaWnt](https://bit.ly/3czaWnt)
+
 **Google Play:** [https://play.google.com/store/apps/dev?id=4632754993927180206](https://play.google.com/store/apps/dev?id=4632754993927180206)
 
 ### Focus Areas

@@ -104,7 +104,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 | **Polot, Alessandra, G.**       | Junior Survey Software Developer |
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3d08400-6c5f-4513-9762-d07c903ad0a4" alt="image" />
+  <img width="1365" height="507" alt="image" src="https://github.com/user-attachments/assets/6e484608-e9fc-4605-9357-f6c7a89feff6" />
 </p>
 
 ---

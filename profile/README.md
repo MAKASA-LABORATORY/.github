@@ -375,22 +375,26 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 ### Faculty Positions
 
 **Appointments**
-
-* **Instructor I** — College of Technology (formerly College of Technology and Allied Sciences) — Bohol Island State University–Bilar Campus — *2022–Present*
+* **𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐎𝐑 𝐈** — College of Technology (formerly College of Technology and Allied Sciences) — Bohol Island State University–Bilar Campus — *2022–Present*
 
 **Mandates**
-
-* **Faculty Instructor** — Department of Computer Science — Bohol Island State University–Bilar Campus — *2022–Present*
-* **Faculty Writer** — Instructional Materials Development Center — BISU–Bilar Campus — *2022–Present*
-* **Faculty Researcher** — Research Office — BISU–Bilar Campus — *2022–Present*
-* **Faculty Creator** — Innovation & Technology Support Office — BISU–Bilar Campus — *2023–Present*
-* **Faculty Extensionist** — Extension Office — BISU–Bilar Campus — *2023–Present*
+* **Faculty Instructor** — Computer Science Department, College of Technology (formerly Department of Computer Science, College of Technology and Allied Sciences), BISU–Bilar Campus — *Dec 2022–Present*
+* **Faculty Writer** — Instructional Materials Development Center, BISU–Bilar Campus — *Dec 2022–Present*
+* **Faculty Researcher** — Research Office, BISU–Bilar Campus — *Dec 2022–Present*
+* **Faculty Creator** — Innovation & Technology Support Office, BISU–Bilar Campus — *Jan 2023–Present*
+* **Faculty Extensionist** — Extension Office, BISU–Bilar Campus — *Jan 2023–Present*
 
 **Designations**
-
+* **Head, Data Management and Analytics** —  Research Office, BISU–Bilar Campus — *Jul 2023 – Oct 2024*
 * **College of Technology ITSO Chair** — BISU–Bilar Campus — *Jan 2025 – Dec 2025*
 * **Campus IMDC Director** — BISU–Bilar Campus — *July 2025 – Dec 2025*
-  
+
+
+**Support**
+* **College of Technology Public Information Officer** — Faculty Association-Bilar Chapter, BISU-Bilar Campus — *Oct 2024 – Present*
+* **Affiliate Computer Science Instructor** — Instruction Office, BISU-Candijay Campus — *Aug 2025 – Dec 2025*
+
+
 ### Linkages
 
 * **Survey Software Developer (Backend & Database)** — Social Development Research Center — De La Salle University *(Consultancy for Baseline Survey: Regular Survey on Basic and Important Justice and Human Rights Issues and Best Way of Reaching BARMM Communities/People in the Philippines)* — *Aug 2024 – Mar 2025*

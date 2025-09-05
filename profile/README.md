@@ -85,8 +85,8 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 
 ## 🏛️ Officers (2024)
 
-* **Officer-in-Charge (OIC):** John Stephen Malarejes
-* **Secretary:** Mary Grace Nalual
+* **Officer-in-Charge (OIC):** John Stephen Malarejes ([@JohnStephenMalarejes](https://github.com/JohnStephenMalarejes))
+* **Secretary:** Mary Grace Nalual ([@MaryGraceNalual](https://github.com/MaryGraceNalual))
 
 ## 💻 Full Stack Developers (2024)
 

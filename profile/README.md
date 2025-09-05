@@ -24,9 +24,9 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2025
 
 ## 🏛️ Officers
 
-* **Officer-in-Charge (OIC):** Paul Jr. E. Salarda
-* **Secretary:** Kathleen C. Gonzaga *(Appointed by Sir Max Angelo Perin)*
-* **Assistant Secretary:** Rhea Jean A. Lagare *(Appointed by Sir Max Angelo Perin)*
+* **Officer-in-Charge (OIC):** Paul Jr. E. Salarda ([@salarda143](https://github.com/salarda143))
+* **Secretary:** Kathleen C. Gonzaga ([@KathleenGonzaga](https://github.com/KathleenGonzaga)) *(Appointed by Sir Max Angelo Perin)*
+* **Assistant Secretary:** Rhea Jean A. Lagare ([@rheajean123](https://github.com/rheajean123)) *(Appointed by Sir Max Angelo Perin)*
 
 > The OIC leads the team, creates and manages repositories, evaluates outputs, and facilitates participation in extension activities.
 
@@ -36,12 +36,12 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2025
 
 | Domain                 | Head(s)                                            |
 | ---------------------- | -------------------------------------------------- |
-| **Desktop**            | Christian Jhon Adlaon                              |
-| **Web**                | Jeany Babe Pailanan                                |
-| **Mobile**             | Eden Pearl Cutora                                  |
-| **Embedded Systems**   | Mark Ryan Balatero                                 |
-| **Design**             | Jan Niño Turan · Emmanuel Bitancor · Angelica Gera |
-| **Backend / Database** | Jeany Babe Pailanan                                |
+| **Desktop** | Christian Jhon Adlaon ([@christianadlaon](https://github.com/christianadlaon)) |
+| **Web**                | Jeany Babe Pailanan ([@Pailanan](https://github.com/Pailanan))|
+| **Mobile**             | Eden Pearl Cutora  ([@EdenPearl](https://github.com/EdenPearl))|
+| **Embedded Systems**   | Mark Ryan Balatero   ([@markryanbalatero](https://github.com/markryanbalatero ))|
+| **Design**             | Jan Niño Turan ([@JanNinoTuran](https://github.com/JanNinoTuran )) · Emmanuel Bitancor ([@EmmanuelBitancor](https://github.com/EmmanuelBitancor )) · Angelica Gera ([@AngelicaGera](https://github.com/AngelicaGera ))|
+| **Backend / Database** | Paul Jr. E. Salarda ([@salarda143](https://github.com/salarda143))|
 
 ---
 
@@ -352,7 +352,7 @@ Welcome to the official GitHub organization of **Full Stack Masters** for **2024
 
 # Prepared By
 
-## Inst. Engr. Max Angelo Dapitilla Perin, BSCpE, CCpE, MSCS, SFPC, SPARTA‑DS
+## Inst. Engr. Max Angelo Dapitilla Perin, BSCpE, CCpE, MSCS, SFPC, SPARTA‑DS ([@maxangelo987](https://github.com/maxangelo987))
 
 ### Educational Background
 

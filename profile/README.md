@@ -68,6 +68,26 @@ Central register of college systems under development, pilot, and maintenance.
 > - “—” means not yet assigned or not applicable.
 
 ---
+## 🏆 Accomplishments — Publications 
+
+### 1) iBon: A Web Application for Aerial Fauna Identification and Counting Using Machine Learning
+- **Authors:** Malarejes, Salvaleon, Mission, Perin  
+- **Venue:** eStream 2025 (IEEE) — Vilnius, Lithuania  
+- **DOI:** `10.1109/eStream66938.2025.11016858`  
+
+**How to cite (APA):**  
+Malarejes, J. S. B., Salvaleon, V. B. M.-O., Mission, J. E., & Perin, M. A. D. (2025). *iBon: A Web Application for Aerial Fauna Identification and Counting Using Machine Learning*. In the **2025 IEEE Open Conference of Electrical, Electronic, and Information Sciences (eStream)**. https://doi.org/10.1109/eStream66938.2025.11016858
+
+---
+
+### 2) A Comparative Study of Bird Species Classification Using K-Nearest Neighbors, Convolutional Neural Networks, and Support Vector Machines
+- **Authors:** Malarejes, Salvaleon, Mission, Perin  
+- **Venue:** eStream 2025 (IEEE) — Vilnius, Lithuania  
+- **DOI:** `10.1109/eStream66938.2025.11016879`  
+
+**How to cite (APA):**  
+Malarejes, J. S. B., Salvaleon, V. B. M.-O., Mission, J. E., & Perin, M. A. D. (2025). *A Comparative Study of Bird Species Classification Using K-Nearest Neighbors, Convolutional Neural Networks, and Support Vector Machines*. In the **2025 IEEE Open Conference of Electrical, Electronic, and Information Sciences (eStream)**. https://doi.org/10.1109/eStream66938.2025.11016879
+
 
 ---
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ — MAKASA × Full Stack Masters

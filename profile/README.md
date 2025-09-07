@@ -266,14 +266,14 @@
 - **Bachelor of Science in Computer Engineering** — BISU–Main — *2013–2018 (Graduated)*  
 - **Master of Science in Computer Engineering (Software Engineering, 6 units)** — University of San Carlos — *2018–2019*  
 - **Master of Science in Computer Science** — Cebu Institute of Technology–University — *2019–2021 (Graduated)*  
-- **Data Science Pathway (Project SPARTA Scholar)** — Development Academy of the Philippines — *2020–2023 (Graduated)*  
 - **Doctor in Information Technology** — Cebu Institute of Technology–University — *2023–Present*
 </details>
 
 <details>
-<summary><strong>Professional Certificates</strong></summary>
+<summary><strong>Professional Certificates/Trainings</strong></summary>
 
 - **Scrum Foundation Professional Certificate** — CertiProf — *2020*  
+- **Data Science Pathway (Project SPARTA Scholar)** — Development Academy of the Philippines — *2020–2023*
 - **Certified Computer Engineer** — Philippines’ Computer Engineering Board — *2023*
 </details>
 

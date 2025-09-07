@@ -30,6 +30,46 @@
 
 ---
 
+# CTech × CSD Integrated Project Tracker (SY 2025–2026)
+
+Central register of college systems under development, pilot, and maintenance.  
+**Columns kept:** 4th-Year Analyst, 3rd-Year Project Leader, 2nd-Year Assistant PL — **last names only**.
+
+---
+
+## Project Index (2025)
+
+| # | Project | Analyst (4th Yr) | 3rd-Yr PL | 2nd-Yr APL |
+|---:|---|---|---|---|
+| 1 | eBaybayMo | Cutora | Organiza | — |
+| 2 | Ina-Ani | Salarda | Cardana | — |
+| 3 | LIGTAS×BERA | Sagliba | Cuadra / Sasil | Jaspe |
+| 4 | 7S | Polot | Jaya | Putot |
+| 5 | Payroll | Tasic | Tutor | — |
+| 6 | CTECH/COMSOC Journal | Bitancor | Raganas | — |
+| 7 | FSG | Palma | Bucar | Madrona |
+| 8 | DTRX | Pasilbas | Cabacoy | — |
+| 9 | Hostel | Camposo | Amora | — |
+| 10 | iPass | Adlaon / Balatero | Cal | — |
+| 11 | NIA (DISA+LISA) | Pailanan | Lumantas | Chiquito |
+| 12 | EskayApp V2 | — | Datahan | — |
+| 13 | Bohol Cacao System | — | Persores | Bunao |
+| 14 | BISU RIE Faculty Research Pool | — | Duran | Ramirez |
+| 15 | Room / Class Utilization | — | Dielen | Garig |
+| 16 | FEWA (Faculty Evaluation Web App) | Bongato | Buaya | Mangmang |
+| 17 | SCUAA Game System | — | Salamanca | — |
+| 18 | Church System | — | Cayda | Cahulogon |
+| 19 | STENOGRAPP | Gonzaga | Aurestila | Ancog |
+| 20 | CSO System | — | Esto | — |
+| 21 | MAKASA | Adlaon | Quirequire | — |
+
+> Notes:
+> - Hyphen/“/” entries indicate multiple owners for that role.
+> - “—” means not yet assigned or not applicable.
+
+---
+
+---
 ## ᜉᜈᜈᜎᜒᜃ᜔ᜐᜒᜃᜈ᜔ ᜅ᜔ ᜋᜃᜐ — MAKASA × Full Stack Masters
 **Computing Research and Development** · **Bohol Island State University**  
 **ResearchGate:** https://bit.ly/3czaWnt · **Google Play:** https://play.google.com/store/apps/dev?id=4632754993927180206

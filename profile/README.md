@@ -41,9 +41,9 @@ Central register of college systems under development, pilot, and maintenance.
 
 | # | Project | Analyst (4th Yr) | 3rd-Yr PL | 2nd-Yr APL |
 |---:|---|---|---|---|
-| 1 | eBaybayMo | Cutora | Organiza | — |
+| 1 | eBaybayMo | Cutora | Organiza | Labonite |
 | 2 | Ina-Ani | Salarda | Cardana | — |
-| 3 | LIGTAS×BERA | Sagliba | Cuadra / Sasil | Jaspe |
+| 3 | LIGTAS×BERA | Sagliba | Cuadra / Sasil | Japitana / Jaspe |
 | 4 | 7S | Polot | Jaya | Putot |
 | 5 | Payroll | Tasic | Tutor | — |
 | 6 | CTECH/COMSOC Journal | Bitancor | Raganas | — |
@@ -61,7 +61,7 @@ Central register of college systems under development, pilot, and maintenance.
 | 18 | Church System | — | Cayda | Cahulogon |
 | 19 | STENOGRAPP | Gonzaga | Aurestila | Ancog |
 | 20 | CSO System | — | Esto | — |
-| 21 | MAKASA | Adlaon | Quirequire | — |
+| 21 | MAKASA | Adlaon | Quirequire | Jamil |
 
 > Notes:
 > - Hyphen/“/” entries indicate multiple owners for that role.

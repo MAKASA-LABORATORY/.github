@@ -41,26 +41,26 @@ Central register of college systems under development, pilot, and maintenance.
 
 | # | Project | Analyst (4th Yr) | 3rd-Yr PL | 2nd-Yr APL |
 |---:|---|---|---|---|
-| 1 | eBaybayMo | Cutora | Organiza | Jhell Jone Labonite |
+| 1 | eBaybayMo | Cutora | Organiza | Labonite |
 | 2 | Ina-Ani | Salarda | Cardana | Amora |
 | 3 | LIGTASxBERA | Sagliba | Cuadra / Sasil | Japitana / Jaspe |
-| 4 | 7S | Polot | Jaya | Putot, John Paul |
+| 4 | 7S | Polot | Jaya | Putot |
 | 5 | Payroll | Tasic | Tutor | Tura |
 | 6 | CTECH/COMSOC Journal | Bitancor | Raganas | Saren |
 | 7 | FSG | Palma | Bucar | Madrona |
 | 8 | DTRX | Pasilbas | Cabacoy | Zugalam |
 | 9 | Hostel | Camposo | Amora | Digamon |
-| 10 | iPass | Adlaon / Balatero | Cal | Gello Rana |
-| 11 | NIA (DISA+LISA) | Pailanan | Lumantas | Kenn Collin Chiquito |
+| 10 | iPass | Adlaon / Balatero | Cal |  Rana |
+| 11 | NIA (DISA+LISA) | Pailanan | Lumantas | Chiquito |
 | 12 | EskayApp V2 | — | Datahan | Cutamora |
 | 13 | Bohol Cacao System | — | Peresores | Bunao |
-| 14 | BISU RIE Faculty Research Pool | — | Duran | Ramirez, Heart |
-| 15 | Room / Class Utilization | — | Dielen | Garig, Neil Adrian |
+| 14 | BISU RIE Faculty Research Pool | — | Duran | Ramirez |
+| 15 | Room / Class Utilization | — | Dielen | Garig |
 | 16 | FEWA (Faculty Evaluation Web App) | Bongato | Buaya | Mangmang |
 | 17 | SCUAA Game System | — | Salamanca | Ronolo |
 | 18 | Church System | — | Cayda | Cahulogan |
-| 19 | STENOGRAPP | Gonzaga | Aurestila | Nathan Jay Ancog |
-| 20 | CSO System | — | Esto | Nicole Serana |
+| 19 | STENOGRAPP | Gonzaga | Aurestila | NJ Ancog |
+| 20 | CSO System | — | Esto |  Serana |
 | 21 | MAKASA | Adlaon | Quirequire | Jamil |
 
 > Notes:

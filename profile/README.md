@@ -16,7 +16,7 @@
 </p>
 
 ---
-<p align="center"> <img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/696cbaf2-5f2b-46c3-bb4e-1fdcd0e4bfda" /> </p>
+<p align="center"> <img width="851" height="315" alt="image" src="https://github.com/user-attachments/assets/7b6a27a6-1af3-4d0c-bff2-46b9c29e6eef" /> </p>
 
 
 ## ⚠️ Ownership & IP Notice (Read First)

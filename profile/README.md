@@ -9,6 +9,19 @@
 </div>
 
 <p align="center">
+  <img width="300" src="https://makasa-laboratory.github.io/img/makasa-logo-2026.svg" alt="MAKASA Laboratory logo" />
+  &nbsp;&nbsp;<strong>×</strong>&nbsp;&nbsp;
+  <img width="145" src="https://makasa-laboratory.github.io/img/full-stack-masters.jpg" alt="Full Stack Masters logo" />
+</p>
+<p align="center"><strong>MAKASA Laboratory × Full Stack Masters</strong></p>
+<p align="center"><sub>in collaboration with</sub></p>
+<p align="center">
+  <img width="155" src="https://makasa-laboratory.github.io/img/computing-society-bisu-bilar.jpg" alt="Computing Society — BISU Bilar logo" />
+</p>
+<p align="center"><strong>Computing Society — Bohol Island State University, Bilar Campus</strong></p>
+<p align="center"><em>Research · Development · Student Innovation</em></p>
+
+<p align="center">
   <a href="#ownership--ip-notice"><img src="https://img.shields.io/badge/Policy-Ownership%20%26%20IP-informational" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Embedded-success" />
   <a href="https://play.google.com/store/apps/dev?id=4632754993927180206"><img src="https://img.shields.io/badge/Google%20Play-Developer%20Page-brightgreen" /></a>

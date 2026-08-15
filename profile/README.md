@@ -1,7 +1,7 @@
 <!-- Hero (dark/light aware) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:22d3ee&text=MAKASA%20Laboratory%20%C3%97%20Full%20Stack%20Masters&desc=Modern%2C%20Adaptive%20Knowledge%20in%20Agriculture%2C%20Science%2C%20and%20Arts&fontColor=ffffff&fontAlignY=35&descAlignY=60&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f59e0b,100:ef4444&text=MAKASA%20Laboratory%20%C3%97%20Full%20Stack%20Masters&desc=Modern%2C%20Adaptive%20Knowledge%20in%20Agriculture%2C%20Science%2C%20and%20Arts&fontColor=111827&fontAlignY=35&descAlignY=60&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:22d3ee&text=MAKASA%20Laboratory%20%C3%97%20Full%20Stack%20Masters&desc=Modern%2C%20Adaptive%20Knowledge%20in%20Agriculture%2C%20Science%2C%20and%20Applications&fontColor=ffffff&fontAlignY=35&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f59e0b,100:ef4444&text=MAKASA%20Laboratory%20%C3%97%20Full%20Stack%20Masters&desc=Modern%2C%20Adaptive%20Knowledge%20in%20Agriculture%2C%20Science%2C%20and%20Applications&fontColor=111827&fontAlignY=35&descAlignY=60&animation=fadeIn" />
 </picture>
 
 <div align="center">

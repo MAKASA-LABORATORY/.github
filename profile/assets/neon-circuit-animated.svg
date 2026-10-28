@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1436" height="490" viewBox="0 0 1436 490" role="img" aria-label="Animated neon coding and infinity emblem">
+<style>
+.logo { animation: breathe 4s ease-in-out infinite; transform-origin: 50% 50%; }
+.neon-fog { animation: fog 4s ease-in-out infinite; }
+.spark { fill: none; stroke: #fff3ff; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 14 480; animation: run 4s linear infinite; }
+.spark.two { animation-delay: -1.1s; }
+.spark.three { animation-delay: -2.0s; }
+.spark.four { animation-delay: -2.9s; }
+@keyframes breathe { 0%,100% { opacity: .92; } 50% {opacity: 1; } }
+@keyframes fog { 0%,100% { opacity: .55; } 50% {opacity: .95; } }
+@keyframes run { 0% {stroke-dashoffset: 500; opacity: 0;} 10%,85% {opacity: .9;} 100% {stroke-dashoffset: 0; opacity: 0;} }
+@media (prefers-reduced-motion: reduce) { .logo,.neon-fog,.spark { animation: none; } .spark { opacity: 0; } }
+</style>
+<defs>
+<linearGradient id="neon" x1="100" y1="290" x2="1340" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#7424ff"/><stop offset=".33" stop-color="#ad0df4"/><stop offset=".68" stop-color="#ff2fc7"/><stop offset="1" stop-color="#fb179d"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="19"/></filter>
+<g id="shapes" fill-rule="evenodd">
+<path d="M1152,218 1151,208 1144,198 1136,194 1124,194 1113,201 1107,213 1036,214 967,285 830,285 829,280 893,180 912,156 944,127 971,115 995,114 1007,119 1018,129 1029,155 1033,155 1069,130 1060,107 1040,85 1011,70 985,66 959,68 936,74 897,94 882,106 832,164 783,239 751,224 728,218 669,215 625,222 564,244 560,210 543,185 526,175 494,168 480,168 450,176 432,190 424,208 424,214 428,216 464,207 493,206 503,208 515,217 519,227 519,238 512,267 508,304 512,342 527,375 542,392 557,403 701,403 731,386 758,366 791,333 821,294 968,294 974,292 1043,221 1106,221 1117,233 1134,237 1148,228Z M757,278 732,310 719,323 712,326 709,332 697,336 686,345 645,362 611,368 586,364 573,354 562,338 557,314 558,286 608,264 656,254 697,254 733,263Z M1128,203 1135,204 1142,213 1139,223 1132,227 1125,226 1118,218 1120,208Z"/>
+<path d="M284,137 114,234 111,239 109,277 111,298 286,399 286,341 166,269 172,263 286,197Z"/>
+<path d="M1189,138 1185,140 1186,197 1306,269 1186,341 1186,399 1360,298 1358,236Z"/>
+<path d="M1188,275 1184,266 1173,260 1160,262 1151,273 1050,273 999,323 824,323 822,330 1000,332 1007,329 1055,281 1149,281 1160,294 1171,297 1185,289Z M1166,269 1175,270 1180,277 1179,282 1172,288 1167,288 1160,281 1160,276Z"/>
+<path d="M323,213 322,220 326,232 338,241 346,242 358,238 377,255 459,255 488,285 495,284 495,278 466,248 379,245 365,232 367,213 364,207 352,198 344,197 332,201Z M344,207 351,209 357,219 355,225 347,231 338,229 333,222 335,213Z"/>
+<path d="M279,289 282,299 295,308 308,306 317,295 443,295 472,324 491,325 493,322 490,317 478,317 446,286 318,286 309,274 297,271 288,274 282,280Z M296,280 301,280 308,286 308,293 301,299 294,298 289,292 291,284Z"/>
+</g></defs>
+<rect width="1436" height="490" fill="#070613"/>
+<use href="#shapes" class="neon-fog" filter="url(#blur)" fill="#ac13ec" opacity=".65"/>
+<use href="#shapes" class="logo" fill="url(#neon)"/>
+<g opacity=".85">
+<path class="spark" d="M346 219L375 251 465 251 492 282"/>
+<path class="spark two" d="M301 291L448 291 479 323 491 323"/>
+<path class="spark three" d="M823 290L971 290 1040 218 1129 218"/>
+<path class="spark four" d="M825 329L1000 329 1053 277 1170 277"/>
+</g></svg>
